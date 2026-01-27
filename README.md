@@ -1,4 +1,4 @@
-# Hi there, I'm Trinh MInh Hieu 👋
+# Hi there, I'm Trinh Minh Hieu 👋
 
 ## 🚀 Full Stack Developer & AI Engineer
 
