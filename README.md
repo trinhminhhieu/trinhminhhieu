@@ -69,15 +69,5 @@ TypeScript • JavaScript • Python • Rust • Go • C# • C++ • Java
 - 📧 Email: trinhminhhieuone@gmail.com
 - 🌐 Website: https://keyai.net
 
-⭐️ From Your GitHub trinhminhhieu
 
-
-### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
----
-
-⭐️ From [Your GitHub Username](https://github.com/YOUR_USERNAME)
+⭐️ From [trinhminhhieu](https://github.com/trinhminhhieu)
