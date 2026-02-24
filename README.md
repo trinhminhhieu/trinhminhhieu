@@ -8,35 +8,35 @@ I'm a passionate software engineer specializing in full-stack development and ar
 
 **Languages:**
 ```
-TypeScript • JavaScript • Python • Rust • Go • C# • C++ • Java
+TypeScript • JavaScript • Python • Rust • Go • C# • C++ • Java • Kotlin
 ```
 
 **Frontend:**
-- React.js, Next.js
+- React.js, Next.js, Go, Django, Rust, Electron, ASP.net
 - Modern UI/UX with responsive design
 - Progressive Web Apps (PWA)
 
 **Backend:**
-- Node.js, Express
+- Node.js, Express, Nest.js, Python, Java, Rust, Go, C#, Socket
 - RESTful & GraphQL APIs
 - Microservices architecture
 - Server-side rendering (SSR)
 
 **Mobile Development:**
-- React Native
+- React Native, Flutter, Kotlin, Java, Firebase
 - Cross-platform solutions
 - Native integrations
 
 **Game Development:**
-- Full-stack game architecture
+- Full-stack game architecture C#, Java
 - Real-time multiplayer systems
 - Game server development
 
 **Cloud & Infrastructure:**
-- ☁️ Amazon Web Services (AWS)
-- 🌊 DigitalOcean
-- 🚂 Railway
-- ⚡ Supabase
+- Amazon Web Services (AWS)
+- DigitalOcean
+- Railway
+- Supabase
 - Docker & Kubernetes
 
 **AI/ML:**
@@ -55,12 +55,6 @@ TypeScript • JavaScript • Python • Rust • Go • C# • C++ • Java
 - ☁️ Design and deploy scalable cloud infrastructure
 - 🔧 Optimize application performance and user experience
 
-### 🌱 Currently
-
-- Exploring cutting-edge AI technologies
-- Building production-ready AI applications
-- Contributing to open-source projects
-- Learning advanced system design patterns
 
 ### 📫 Let's Connect
 
