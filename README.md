@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./hieu-tech-logo.svg" alt="HieuTech" width="320">
+  <img src="hieu-tech-logo.svg" alt="HieuTech" width="320">
 </p>
 
 # Hi there, I'm Trinh Minh Hieu 👋
