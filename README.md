@@ -1,3 +1,9 @@
+   ```html
+   <p align="center">
+     <img src="./hieu-tech-logo.svg" alt="HieuTech" width="100%">
+   </p>
+   ```
+
 # Hi there, I'm Trinh Minh Hieu 👋
 
 ## 🚀 Full Stack Developer & AI Engineer
