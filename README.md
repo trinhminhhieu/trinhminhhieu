@@ -16,33 +16,10 @@ TypeScript • JavaScript • Python • Rust • Go • C# • C++ • Java •
 ```
 
 **Frontend:**
-- React.js, Next.js, Go, Django, Rust, Electron, ASP.net
-- Modern UI/UX with responsive design
-- Progressive Web Apps (PWA)
-
 **Backend:**
-- Node.js, Express, Nest.js, Python, Java, Rust, Go, C#, Socket
-- RESTful & GraphQL APIs
-- Microservices architecture
-- Server-side rendering (SSR)
-
 **Mobile Development:**
-- React Native, Flutter, Kotlin, Java, Firebase
-- Cross-platform solutions
-- Native integrations
-
 **Game Development:**
-- Full-stack game architecture C#, Java
-- Real-time multiplayer systems
-- Game server development
-
 **Cloud & Infrastructure:**
-- Amazon Web Services (AWS)
-- DigitalOcean
-- Railway
-- Supabase
-- Docker & Kubernetes
-
 **AI/ML:**
 - 🤗 Hugging Face (Transformers, Diffusers)
 - Deep Learning frameworks
@@ -63,8 +40,8 @@ TypeScript • JavaScript • Python • Rust • Go • C# • C++ • Java •
 ### 📫 Let's Connect
 
 - 💼 LinkedIn: trinhminhhieu
-- 🐦 Twitter: trinhminhhieu
-- 📧 Email: trinhminhhieuone@gmail.com
+- 🐦 Twitter: trinh_minh_hieu
+- 📧 Email: hieutech@hotmail.com
 - 🌐 Website: https://keyai.net
 
 
