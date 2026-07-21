@@ -15,12 +15,20 @@ I'm a passionate software engineer specializing in full-stack development and ar
 TypeScript • JavaScript • Python • Rust • Go • C# • C++ • Java • Kotlin
 ```
 
-**Frontend:**
-**Backend:**
-**Mobile Development:**
-**Game Development:**
-**Cloud & Infrastructure:**
-**AI/ML:**
+### Experience
+
+**Frontend**
+
+**Backend**
+
+**Mobile Development**
+
+**Game Development**
+
+**Cloud & Infrastructure**
+
+**AI/ML**
+
 - 🤗 Hugging Face (Transformers, Diffusers)
 - Deep Learning frameworks
 - NLP & Computer Vision
