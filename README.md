@@ -12,7 +12,7 @@ I'm a passionate software engineer specializing in full-stack development and ar
 
 **Languages:**
 ```
-TypeScript • JavaScript • Python • Rust • Go • C# • C++ • Java • Kotlin
+TypeScript • JavaScript • Python • Rust • Go • C# • C++ • Java • Kotlin • Dart
 ```
 
 ### Experience
