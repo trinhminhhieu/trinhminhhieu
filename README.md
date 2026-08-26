@@ -50,7 +50,6 @@ TypeScript • JavaScript • Python • Swift • Go • C# • C++ • Java �
 - 💼 LinkedIn: trinhminhhieu
 - 🐦 Twitter: trinh_minh_hieu
 - 📧 Email: hieutech@hotmail.com
-- 🌐 Website: https://keyai.net
 
 
 ⭐️ From [trinhminhhieu](https://github.com/trinhminhhieu)
