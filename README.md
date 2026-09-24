@@ -46,9 +46,6 @@ TypeScript • JavaScript • Python • Swift • Go • C# • C++ • Java �
 
 
 ### 📫 Let's Connect
-
-- 💼 LinkedIn: trinhminhhieu
-- 🐦 Twitter: trinh_minh_hieu
 - 📧 Email: hieutech@hotmail.com
 
 
