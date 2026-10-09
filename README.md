@@ -2,51 +2,55 @@
   <img src="hieu-tech-logo.svg" alt="HieuTech" width="320">
 </p>
 
-# Hi there, I'm Trinh Minh Hieu 👋
+Hi, I'm Trinh Minh Hieu 👋
+Full-Stack Developer · AI Engineer · Software Architect
 
-## 🚀 Full Stack Developer & AI Engineer
+I build software that bridges web, mobile, AI, and systems engineering — from scalable backend services and cross-platform applications to intelligent systems powered by modern machine learning models.
 
-I'm a passionate software engineer specializing in full-stack development and artificial intelligence. I build scalable applications across web, mobile, and game platforms, with a strong focus on AI/ML integration.
+I enjoy exploring complex technical challenges, optimizing performance, and turning ideas into reliable, production-ready software.
 
-### 💻 Tech Stack
+🛠️ Tech Stack
 
-**Languages:**
-```
-TypeScript • JavaScript • Python • Swift • Go • C# • C++ • Java • Kotlin • Dart • Rust •
-```
-
-### Experience
-
-**Frontend**
-
-**Backend**
-
-**Mobile Development**
-
-**Game Development**
-
-**Cloud & Infrastructure**
-
-**AI/ML**
-
-- 🤗 Hugging Face (Transformers, Diffusers)
-- Deep Learning frameworks
-- NLP & Computer Vision
-- Model deployment & optimization
-- AI-powered applications
-
-### 🎯 What I Do
-
-- 🌐 Build full-stack web applications with modern frameworks
-- 📱 Develop cross-platform mobile apps
-- 🎮 Create engaging games with robust backends
-- 🤖 Integrate AI/ML models into production systems
-- ☁️ Design and deploy scalable cloud infrastructure
-- 🔧 Optimize application performance and user experience
+Languages
 
 
-### 📫 Let's Connect
-- 📧 Email: hieutech@hotmail.com
 
 
-⭐️ From [trinhminhhieu](https://github.com/trinhminhhieu)
+
+
+
+
+
+
+
+
+
+
+Engineering Domains
+
+🌐 Web & Backend — Full-stack applications, APIs, distributed services
+📱 Mobile Development — Native iOS, Android, cross-platform applications
+🎮 Game Development — Game systems, gameplay logic, backend integration
+🤖 AI & Machine Learning — Transformers, Diffusers, NLP, computer vision, model optimization
+⚙️ Systems Engineering — Native development, performance optimization, low-level programming
+☁️ Cloud & Infrastructure — Deployment, automation, scalable services
+🔐 Cybersecurity — Application security, reverse engineering, software protection
+🧠 AI & Machine Learning
+🤗 Hugging Face — Transformers & Diffusers
+🧬 Deep learning and model experimentation
+👁️ Natural language processing and computer vision
+🚀 Model deployment, inference optimization, and AI integration
+🚀 What I Build
+End-to-end web applications and backend platforms
+Native and cross-platform mobile applications
+AI-powered tools and intelligent automation systems
+High-performance software and native components
+Scalable infrastructure and developer tooling
+Game applications and supporting services
+📬 Get in Touch
+
+📧 Email: hieutech@hotmail.com
+
+💻 GitHub: @trinhminhhieu
+
+<p align="center"> <i>Building things, solving problems, and exploring what's possible with technology.</i> </p>
