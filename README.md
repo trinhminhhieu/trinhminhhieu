@@ -28,6 +28,15 @@ Languages
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/kotlin/kotlin-original.svg" width="45" height="45" alt="Kotlin" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/dart/dart-original.svg" width="45" height="45" alt="Dart" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/rust/rust-original.svg" width="45" height="45" alt="Rust" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/keras/keras-original.svg" width="45" height="45" alt="Keras" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/opencv/opencv-original.svg" width="45" height="45" alt="OpenCV" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn" /> 
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="45" height="45" alt="Hugging Face" /> 
+  <img src="https://cdn.simpleicons.org/openai/412991" width="45" height="45" alt="OpenAI" /> 
+
 </p>
 
 
